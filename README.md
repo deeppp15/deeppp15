@@ -56,7 +56,7 @@
       <a href="github.com/deeppp15" target="_blank">
         <img src="https://komarev.com/ghpvc/?username=deeppp15&style=for-the-badge&label=PROFILE+VIEWS" alt="views count" style="height: 30px; margin: 0 5px;">
       </a>
-      <a href="https://1999azzar.github.io/deeppp15/" target="_blank">
+      <a href="https://deeppp15.github.io/my-portfolio/" target="_blank">
         <img src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Fdeeppp15.github.io%2Fmy-portfolio%2F" alt="Portfolio Website" style="height: 30px; margin: 0 5px;">
       </a>
     </p>
